@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: wzp
+Implementation-Vendor-Id: com.tgb.dubbo
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_40
+Main-Class: ${start-class}
+
