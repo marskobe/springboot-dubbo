@@ -1,4 +1,0 @@
-server:
-  port: 9002
-  servlet-path: /bus
-
